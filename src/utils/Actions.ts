@@ -1,0 +1,5 @@
+export enum Actions {
+  GET_PRODUCTS = "GET_PRODUCTS",
+  USER_LOGOUT = "USER_LOGOUT",
+  USER_LOGGED_IN = "USER_LOGGED_IN",
+}
